@@ -2515,7 +2515,7 @@
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(144, 144, 144, 0.075);
+				lor: rgba(144, 144, 144, 0.075);
 			}
 
 		table td {
@@ -2707,7 +2707,6 @@
 		}
 
 		.main.style2 {
-			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
 			/* background-image: url("images/overlay1.png"), url("../../images/header.jpg"); */
